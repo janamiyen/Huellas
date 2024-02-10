@@ -1176,8 +1176,10 @@ card1{
 }
 
 .slider-1 .card-image {
-    width: 109px;
-    height: 117px;
+    width: 205px;
+    height: 234px;
+	object-fit: cover;
+	object-position: top;
 	margin-right: auto;
 	margin-bottom: 1.25rem;
 	margin-left: auto;
